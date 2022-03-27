@@ -6,7 +6,9 @@ This app requires python and tkinter to be installed on your computer. Python ca
 
 In order to install tkinter in your computer, open command prompt/terminal and type the following command
 
-`pip install tk`
+```sh
+pip install tk
+```
 
 # Some Instructions
 
