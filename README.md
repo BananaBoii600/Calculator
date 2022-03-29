@@ -1,4 +1,7 @@
 # Python-Calculator
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 A simple python calculator made with tkinter. The code is clean and can be easily edited.
 
 # Setup
@@ -9,8 +12,6 @@ In order to install tkinter in your computer, open command prompt/terminal and t
 ```sh
 pip install tk
 ```
-
-# Some Instructions
 
 The app's gui is currently a bit wonky and i do plan to fix it in the very near future
 
